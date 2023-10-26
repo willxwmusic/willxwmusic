@@ -3,7 +3,7 @@
 <p align="center">
 <img width = "400" align="center" src="https://github-readme-stats.vercel.app/api?username=willxwmusic&show_icons=true&theme=github_dark&hide_border=true"/>
 <img width = "400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willxwmusic&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&layout=compact&langs_count=8&card_width=320" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=willxwmusic&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=willxwmusic&theme=oldie&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 </p>
 
 <br> <h2 align="center">stack:</h2>
