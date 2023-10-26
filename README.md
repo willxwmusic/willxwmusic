@@ -1,3 +1,4 @@
+<img src="banner.png" width = "100%">
 <h2 align="center">stats:</h2>
 <p align="center">
 <img width = "400" align="center" src="https://github-readme-stats.vercel.app/api?username=willxwmusic&show_icons=true&theme=github_dark&hide_border=true"/>
