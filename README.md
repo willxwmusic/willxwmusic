@@ -1,7 +1,12 @@
 <img src="banner.gif" width = "100%">
 
 <br> <h2 align="center">stats:</h2>
-<br> <p align="center"> 
+<br> <p align="center" style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green;"> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxw&layout=donut)
 ![3D](https://github-readme-stats.vercel.app/api?username=xwillxw)
 
