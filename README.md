@@ -1,7 +1,7 @@
 <img src="banner.gif" width = "100%">
 <h2 align="center">stats:</h2>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxw)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <br> <h2 align="center">stack:</h2>
