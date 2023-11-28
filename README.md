@@ -1,8 +1,9 @@
 <img src="banner.gif" width = "100%">
-<h2 align="center">stats:</h2>
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxw)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+<br> <h2 align="center">stats:</h2>
+<br> <p align="center"> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxw&layout=donut)
+![3D](https://github-readme-stats.vercel.app/api?username=xwillxw)
 
 <br> <h2 align="center">stack:</h2>
 <br> <p align="center"> 
