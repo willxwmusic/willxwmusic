@@ -2,11 +2,12 @@
 
 <br> <h2 align="center">stats:</h2>
 <br> <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxw&layout=donut)
-![3D](https://github-readme-stats.vercel.app/api?username=xwillxw)
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxw&layout=donut&theme=radical">
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=xwillxw&theme=radical">
+</p>
 
 <br> <h2 align="center">stack:</h2>
-<br> <p align="center"> 
+<br> <p align="center" style="height: 10px;"> 
 [![Main OS](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
 [![Photo Editing](https://img.shields.io/badge/Photo-Gimp-informational?style=flat&logo=gimp&color=2bbc8a)](https://www.gimp.org/)
