@@ -1,10 +1,7 @@
 <img src="banner.gif" width = "100%">
 <h2 align="center">stats:</h2>
 <p align="center">
-<img width = "400" align="center" src="https://github-readme-stats.vercel.app/api?username=xwillxw&show_icons=true&theme=github_dark&hide_border=true"/>
-<img width = "400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xwillxw&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&layout=compact&langs_count=8&card_width=320" />
-<img width = "400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/>username=xwillxw&show_icons=true&theme=github_dark&hide_border=true"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=xwillxw&theme=oldie&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <br> <h2 align="center">stack:</h2>
